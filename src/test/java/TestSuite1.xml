@@ -5,8 +5,8 @@
     <test name="AUT Test">
         <classes>
             <class name="TestCase1"/>
-<!--            <class name="TestCase2"/>
-            <class name="TestCase3"/>-->
+            <class name="TestCase2"/>
+            <class name="TestCase3"/>
         </classes>
     </test>
 

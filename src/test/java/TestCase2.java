@@ -35,7 +35,7 @@ public class TestCase2 {
     
     @Test
     public void secondCase(){
-        driver.get("http://localhost/AUTng-main/index.php");
+        driver.get("http://localhost:8080/AUTng-main/index.php");
         driver.findElement(By.name("username")).sendKeys("xxx");
         driver.findElement(By.name("password")).sendKeys("xxx");
         driver.findElement(By.xpath("/html/body/div/form/input[3]")).click();
