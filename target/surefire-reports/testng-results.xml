@@ -2,96 +2,96 @@
 <testng-results ignored="0" total="3" passed="3" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2023-02-14T09:44:13 ICT" name="Command line suite" finished-at="2023-02-14T09:44:20 ICT" duration-ms="6211">
+  <suite started-at="2023-02-14T09:54:18 ICT" name="Command line suite" finished-at="2023-02-14T09:54:24 ICT" duration-ms="6040">
     <groups>
     </groups>
-    <test started-at="2023-02-14T09:44:13 ICT" name="Command line test" finished-at="2023-02-14T09:44:20 ICT" duration-ms="6211">
+    <test started-at="2023-02-14T09:54:18 ICT" name="Command line test" finished-at="2023-02-14T09:54:24 ICT" duration-ms="6040">
       <class name="TestCase3">
-        <test-method is-config="true" signature="setUp()[pri:0, instance:TestCase3@5ef60048]" started-at="2023-02-14T09:44:16 ICT" name="setUp" finished-at="2023-02-14T09:44:17 ICT" duration-ms="689" status="PASS">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:TestCase3@5ef60048]" started-at="2023-02-14T09:54:21 ICT" name="setUp" finished-at="2023-02-14T09:54:21 ICT" duration-ms="671" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setUp -->
-        <test-method is-config="true" signature="setUpClass()[pri:0, instance:TestCase3@5ef60048]" started-at="2023-02-14T09:44:19 ICT" name="setUpClass" finished-at="2023-02-14T09:44:19 ICT" duration-ms="1" status="PASS">
+        <test-method is-config="true" signature="setUpClass()[pri:0, instance:TestCase3@5ef60048]" started-at="2023-02-14T09:54:23 ICT" name="setUpClass" finished-at="2023-02-14T09:54:23 ICT" duration-ms="0" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setUpClass -->
-        <test-method is-config="true" signature="setUpMethod()[pri:0, instance:TestCase3@5ef60048]" started-at="2023-02-14T09:44:19 ICT" name="setUpMethod" finished-at="2023-02-14T09:44:19 ICT" duration-ms="1" status="PASS">
+        <test-method is-config="true" signature="setUpMethod()[pri:0, instance:TestCase3@5ef60048]" started-at="2023-02-14T09:54:23 ICT" name="setUpMethod" finished-at="2023-02-14T09:54:23 ICT" duration-ms="0" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setUpMethod -->
-        <test-method signature="thirdCase()[pri:0, instance:TestCase3@5ef60048]" started-at="2023-02-14T09:44:19 ICT" name="thirdCase" finished-at="2023-02-14T09:44:19 ICT" duration-ms="589" status="PASS">
+        <test-method signature="thirdCase()[pri:0, instance:TestCase3@5ef60048]" started-at="2023-02-14T09:54:23 ICT" name="thirdCase" finished-at="2023-02-14T09:54:23 ICT" duration-ms="567" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- thirdCase -->
-        <test-method is-config="true" signature="tearDownMethod()[pri:0, instance:TestCase3@5ef60048]" started-at="2023-02-14T09:44:19 ICT" name="tearDownMethod" finished-at="2023-02-14T09:44:19 ICT" duration-ms="0" status="PASS">
+        <test-method is-config="true" signature="tearDownMethod()[pri:0, instance:TestCase3@5ef60048]" started-at="2023-02-14T09:54:23 ICT" name="tearDownMethod" finished-at="2023-02-14T09:54:23 ICT" duration-ms="1" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- tearDownMethod -->
-        <test-method is-config="true" signature="tearDownClass()[pri:0, instance:TestCase3@5ef60048]" started-at="2023-02-14T09:44:19 ICT" name="tearDownClass" finished-at="2023-02-14T09:44:19 ICT" duration-ms="0" status="PASS">
+        <test-method is-config="true" signature="tearDownClass()[pri:0, instance:TestCase3@5ef60048]" started-at="2023-02-14T09:54:23 ICT" name="tearDownClass" finished-at="2023-02-14T09:54:23 ICT" duration-ms="1" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- tearDownClass -->
-        <test-method is-config="true" signature="tearDown()[pri:0, instance:TestCase3@5ef60048]" started-at="2023-02-14T09:44:20 ICT" name="tearDown" finished-at="2023-02-14T09:44:20 ICT" duration-ms="153" status="PASS">
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:TestCase3@5ef60048]" started-at="2023-02-14T09:54:24 ICT" name="tearDown" finished-at="2023-02-14T09:54:24 ICT" duration-ms="131" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- tearDown -->
       </class> <!-- TestCase3 -->
       <class name="TestCase2">
-        <test-method is-config="true" signature="setUp()[pri:0, instance:TestCase2@5af97850]" started-at="2023-02-14T09:44:16 ICT" name="setUp" finished-at="2023-02-14T09:44:16 ICT" duration-ms="697" status="PASS">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:TestCase2@5af97850]" started-at="2023-02-14T09:54:20 ICT" name="setUp" finished-at="2023-02-14T09:54:21 ICT" duration-ms="719" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setUp -->
-        <test-method is-config="true" signature="setUpMethod()[pri:0, instance:TestCase2@5af97850]" started-at="2023-02-14T09:44:18 ICT" name="setUpMethod" finished-at="2023-02-14T09:44:18 ICT" duration-ms="0" status="PASS">
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- setUpMethod -->
-        <test-method is-config="true" signature="setUpClass()[pri:0, instance:TestCase2@5af97850]" started-at="2023-02-14T09:44:18 ICT" name="setUpClass" finished-at="2023-02-14T09:44:18 ICT" duration-ms="0" status="PASS">
+        <test-method is-config="true" signature="setUpClass()[pri:0, instance:TestCase2@5af97850]" started-at="2023-02-14T09:54:22 ICT" name="setUpClass" finished-at="2023-02-14T09:54:22 ICT" duration-ms="0" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setUpClass -->
-        <test-method signature="secondCase()[pri:0, instance:TestCase2@5af97850]" started-at="2023-02-14T09:44:18 ICT" name="secondCase" finished-at="2023-02-14T09:44:19 ICT" duration-ms="532" status="PASS">
+        <test-method is-config="true" signature="setUpMethod()[pri:0, instance:TestCase2@5af97850]" started-at="2023-02-14T09:54:22 ICT" name="setUpMethod" finished-at="2023-02-14T09:54:22 ICT" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUpMethod -->
+        <test-method signature="secondCase()[pri:0, instance:TestCase2@5af97850]" started-at="2023-02-14T09:54:22 ICT" name="secondCase" finished-at="2023-02-14T09:54:23 ICT" duration-ms="618" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- secondCase -->
-        <test-method is-config="true" signature="tearDownMethod()[pri:0, instance:TestCase2@5af97850]" started-at="2023-02-14T09:44:19 ICT" name="tearDownMethod" finished-at="2023-02-14T09:44:19 ICT" duration-ms="0" status="PASS">
+        <test-method is-config="true" signature="tearDownMethod()[pri:0, instance:TestCase2@5af97850]" started-at="2023-02-14T09:54:23 ICT" name="tearDownMethod" finished-at="2023-02-14T09:54:23 ICT" duration-ms="1" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- tearDownMethod -->
-        <test-method is-config="true" signature="tearDownClass()[pri:0, instance:TestCase2@5af97850]" started-at="2023-02-14T09:44:19 ICT" name="tearDownClass" finished-at="2023-02-14T09:44:19 ICT" duration-ms="0" status="PASS">
+        <test-method is-config="true" signature="tearDownClass()[pri:0, instance:TestCase2@5af97850]" started-at="2023-02-14T09:54:23 ICT" name="tearDownClass" finished-at="2023-02-14T09:54:23 ICT" duration-ms="0" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- tearDownClass -->
-        <test-method is-config="true" signature="tearDown()[pri:0, instance:TestCase2@5af97850]" started-at="2023-02-14T09:44:19 ICT" name="tearDown" finished-at="2023-02-14T09:44:20 ICT" duration-ms="157" status="PASS">
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:TestCase2@5af97850]" started-at="2023-02-14T09:54:23 ICT" name="tearDown" finished-at="2023-02-14T09:54:24 ICT" duration-ms="158" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- tearDown -->
       </class> <!-- TestCase2 -->
       <class name="TestCase1">
-        <test-method is-config="true" signature="setUp()[pri:0, instance:TestCase1@25a65b77]" started-at="2023-02-14T09:44:13 ICT" name="setUp" finished-at="2023-02-14T09:44:16 ICT" duration-ms="2237" status="PASS">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:TestCase1@25a65b77]" started-at="2023-02-14T09:54:18 ICT" name="setUp" finished-at="2023-02-14T09:54:20 ICT" duration-ms="2249" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setUp -->
-        <test-method is-config="true" signature="setUpClass()[pri:0, instance:TestCase1@25a65b77]" started-at="2023-02-14T09:44:17 ICT" name="setUpClass" finished-at="2023-02-14T09:44:17 ICT" duration-ms="2" status="PASS">
+        <test-method is-config="true" signature="setUpClass()[pri:0, instance:TestCase1@25a65b77]" started-at="2023-02-14T09:54:21 ICT" name="setUpClass" finished-at="2023-02-14T09:54:21 ICT" duration-ms="1" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setUpClass -->
-        <test-method is-config="true" signature="setUpMethod()[pri:0, instance:TestCase1@25a65b77]" started-at="2023-02-14T09:44:17 ICT" name="setUpMethod" finished-at="2023-02-14T09:44:17 ICT" duration-ms="0" status="PASS">
+        <test-method is-config="true" signature="setUpMethod()[pri:0, instance:TestCase1@25a65b77]" started-at="2023-02-14T09:54:21 ICT" name="setUpMethod" finished-at="2023-02-14T09:54:21 ICT" duration-ms="0" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setUpMethod -->
-        <test-method signature="firstCase()[pri:0, instance:TestCase1@25a65b77]" started-at="2023-02-14T09:44:17 ICT" name="firstCase" finished-at="2023-02-14T09:44:18 ICT" duration-ms="921" status="PASS">
+        <test-method signature="firstCase()[pri:0, instance:TestCase1@25a65b77]" started-at="2023-02-14T09:54:21 ICT" name="firstCase" finished-at="2023-02-14T09:54:22 ICT" duration-ms="696" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- firstCase -->
-        <test-method is-config="true" signature="tearDownMethod()[pri:0, instance:TestCase1@25a65b77]" started-at="2023-02-14T09:44:18 ICT" name="tearDownMethod" finished-at="2023-02-14T09:44:18 ICT" duration-ms="1" status="PASS">
+        <test-method is-config="true" signature="tearDownMethod()[pri:0, instance:TestCase1@25a65b77]" started-at="2023-02-14T09:54:22 ICT" name="tearDownMethod" finished-at="2023-02-14T09:54:22 ICT" duration-ms="0" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- tearDownMethod -->
-        <test-method is-config="true" signature="tearDownClass()[pri:0, instance:TestCase1@25a65b77]" started-at="2023-02-14T09:44:18 ICT" name="tearDownClass" finished-at="2023-02-14T09:44:18 ICT" duration-ms="0" status="PASS">
+        <test-method is-config="true" signature="tearDownClass()[pri:0, instance:TestCase1@25a65b77]" started-at="2023-02-14T09:54:22 ICT" name="tearDownClass" finished-at="2023-02-14T09:54:22 ICT" duration-ms="0" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- tearDownClass -->
-        <test-method is-config="true" signature="tearDown()[pri:0, instance:TestCase1@25a65b77]" started-at="2023-02-14T09:44:19 ICT" name="tearDown" finished-at="2023-02-14T09:44:19 ICT" duration-ms="192" status="PASS">
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:TestCase1@25a65b77]" started-at="2023-02-14T09:54:23 ICT" name="tearDown" finished-at="2023-02-14T09:54:23 ICT" duration-ms="165" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- tearDown -->
