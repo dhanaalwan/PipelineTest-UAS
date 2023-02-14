@@ -31,7 +31,7 @@ public class TestCase1 {
     
     @Test
     public void firstCase(){
-        driver.get("http://localhost/AUT-UAS/index.php");
+        driver.get("https://dhana.contohdomain.com/");
         driver.findElement(By.name("username")).sendKeys("admin");
         driver.findElement(By.name("password")).sendKeys("admin123");
         driver.findElement(By.xpath("/html/body/div/form/input[3]")).click();
