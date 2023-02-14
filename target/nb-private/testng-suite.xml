@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd" >
+<suite name="com.dhana_PipelineUAS_jar_1.0-SNAPSHOT">
+
+    <test name="AUT Test">
+        <classes>
+            <class name="TestCase1"/>
+            <class name="TestCase2"/>
+            <class name="TestCase3"/>
+        </classes>
+    </test>
+
+</suite>
