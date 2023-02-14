@@ -19,6 +19,33 @@ import org.testng.annotations.Test;
  * @author dhana.arvina
  */
 public class TestCase1 {
+//    WebDriver driver = null;
+//    
+//    @BeforeTest
+//    public void setUp(){
+//        WebDriverManager.chromedriver().setup();
+//        ChromeOptions options = new ChromeOptions();
+//        options.addArguments("--headless");
+//        driver = new ChromeDriver(options);
+//    }
+//    
+//    @Test
+//    public void firstCase(){
+//        driver.get("http://localhost/AUTng-main/index.php");
+//        driver.findElement(By.name("username")).sendKeys("admin");
+//        driver.findElement(By.name("password")).sendKeys("admin123");
+//        driver.findElement(By.xpath("/html/body/div/form/input[3]")).click();
+//        String expectedResult = "Home Page";
+//        String actualResult = driver.findElement(By.xpath("/html/body/div/h2")).getText();
+//        Assert.assertEquals(actualResult, expectedResult);
+//    }
+//    
+//    @AfterTest
+//    public void tearDown(){
+//        driver.close();
+//        driver.quit();
+//    }
+    
     WebDriver driver = null;
     
     @BeforeTest
@@ -30,14 +57,11 @@ public class TestCase1 {
     }
     
     @Test
-    public void firstCase(){
-        driver.get("http://localhost/AUTng-main/index.php");
-        driver.findElement(By.name("username")).sendKeys("admin");
-        driver.findElement(By.name("password")).sendKeys("admin123");
-        driver.findElement(By.xpath("/html/body/div/form/input[3]")).click();
-        String expectedResult = "Home Page";
-        String actualResult = driver.findElement(By.xpath("/html/body/div/h2")).getText();
-        Assert.assertEquals(actualResult, expectedResult);
+    public void firstTry(){
+        driver.get("https://www.google.com");
+        String expectedTitle = "Google";
+        String actualTitle = driver.getTitle();
+        Assert.assertEquals(actualTitle, expectedTitle);
     }
     
     @AfterTest
